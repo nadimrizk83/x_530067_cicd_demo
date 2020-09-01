@@ -1,0 +1,23 @@
+{
+  "active": true,
+  "admin_overrides": true,
+  "advanced": false,
+  "condition": null,
+  "description": null,
+  "name": "x_530067_cicd_demo_cicd_demo",
+  "operation": "write",
+  "script": null,
+  "sys_class_name": "sys_security_acl",
+  "sys_created_by": "admin",
+  "sys_created_on": "2020-09-01 15:38:39",
+  "sys_id": "499c176c1b07d01061ef31d7dc4bcbf4",
+  "sys_mod_count": 0,
+  "sys_name": "x_530067_cicd_demo_cicd_demo",
+  "sys_package": "8eab17a81b07d01061ef31d7dc4bcbe4",
+  "sys_policy": null,
+  "sys_scope": "8eab17a81b07d01061ef31d7dc4bcbe4",
+  "sys_update_name": "sys_security_acl_499c176c1b07d01061ef31d7dc4bcbf4",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2020-09-01 15:38:39",
+  "type": "record"
+}
